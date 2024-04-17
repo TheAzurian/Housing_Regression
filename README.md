@@ -1,2 +1,2 @@
 # Housing_Regression
-Kaggle competition, predicts house sale price.
+This is the code used for my submission on the Advanced Housing Regression Kaggle competition. The goal of this competition is to predict houses selling price.
